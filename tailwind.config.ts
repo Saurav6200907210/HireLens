@@ -59,8 +59,9 @@ export default {
         },
       },
       fontFamily: {
-        serif: ["Fraunces", "ui-serif", "Georgia", "serif"],
+        serif: ["Playfair Display", "ui-serif", "Georgia", "serif"],
         sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"],
+        numbers: ["Space Grotesk", "sans-serif"],
       },
       borderRadius: {
         lg: "var(--radius)",
